@@ -3,40 +3,40 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "Ei"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "Ei-platform"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "Ei-platform"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "Ei-platform"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "Ei-platform"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "Ei-landingzones"
     },
     "enableAMBAConnectivity": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAIdentity": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBALandingZone": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAManagement": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAServiceHealth": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBANotificationAssets": {
-      "value": "Yes"
+      "value": "No"
     },
     "telemetryOptOut": {
       "value": "No"
@@ -52,7 +52,7 @@
           }
         },
         "ALZMonitorResourceGroupLocation": {
-          "value": "eastus"
+          "value": "swedencentral"
         }
       }
     },
